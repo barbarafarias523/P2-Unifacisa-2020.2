@@ -5,6 +5,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [1 - Tipos Primitivos](conteudos/TiposPrimitivos.md)
 
+[2 - Operadores](conteudos/Operadores.md)
+
 
 
 
