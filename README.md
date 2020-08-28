@@ -9,6 +9,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [3 - Estruturas Condicionais](conteudos/EstruturasCondicionais.md)
 
+[4 - Estruturas de Repetição](conteudos/EstruturasdeRepetição.md)
+
 
 
 
