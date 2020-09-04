@@ -13,6 +13,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [5 - Scanner](conteudos/Scanner.md)
 
+[6 - Classes, objetos e construtores](conteudos/Classesobjetoseconstrutores.md)
+
 
 
 
