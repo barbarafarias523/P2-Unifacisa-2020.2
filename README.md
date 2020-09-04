@@ -11,6 +11,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [4 - Estruturas de Repetição](conteudos/EstruturasdeRepetição.md)
 
+[5 - Scanner](conteudos/Scanner.md)
+
 
 
 
