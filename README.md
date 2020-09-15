@@ -15,6 +15,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [6 - Classes, objetos e construtores](conteudos/Classesobjetoseconstrutores.md)
 
+[7 - Variáveis, Métodos de instância e de classe](conteudos/VariáveisMétodosdeinstânciaedeclasse.md)
+
 
 
 
