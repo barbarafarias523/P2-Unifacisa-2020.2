@@ -17,6 +17,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [7 - Variáveis, Métodos de instância e de classe](conteudos/VariáveisMétodosdeinstânciaedeclasse.md)
 
+[8 - Encapsulamento](conteudos/Encapsulamento.md)
+
 
 
 
