@@ -21,6 +21,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [9 - Strings](conteudos/Strings.md)
 
+[10 - Arrays](conteudos/Arrays.md)
+
 
 
 
