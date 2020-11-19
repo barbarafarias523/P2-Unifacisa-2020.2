@@ -35,6 +35,8 @@ Repositório de Programaçao 2 da Unifacisa.
 
 [16 - Exceções](conteudos/Exceções.md)
 
+[17 - Testes Unitários](conteudos/TestesUnitarios.md)
+
 
 
 
